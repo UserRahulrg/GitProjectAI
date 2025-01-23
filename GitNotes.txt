@@ -1,0 +1,99 @@
+- es7  extension
+
+
+-->GitHub Notes
+
+-git init
+-git add filename1.txt
+-git rm --cached
+-git commit -m
+-git status
+-
+
+working area
+|
+|
+|
+stagging area
+|
+|
+|
+commit
+|
+|
+|
+Git
+
+-git commit -m "Second Commit 2"
+-.gitignore add file name
+- 
+
+login form
+|
+|
+|
+commit-1
+|
+|
+|
+commit-2
+|
+|
+|
+commit-3
+|
+|
+|
+GitHub
+
+
+
+commands to go back in git commits
+
+-git reset --soft head ~ 1
+-git reset --mixed head ~ 2
+-git reset --hard head ~ 3
+
+commit-4
+|
+|
+|
+commit-5
+|
+|
+|
+commit-6
+|
+|
+|
+commit-7
+
+-git log --oneline
+-git reset --hard 65dc699
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
