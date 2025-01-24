@@ -82,11 +82,34 @@ How to check number of commit in a branch
 1.git log --oneline
 2.git branch -m main
 3.git branch -M "branch Name"
+4.
 
 
+How to Create a branch
+1.git branch "branchname"
+			"feature name"
+2.
+
+How to check your branch is created on not
+1.
 
 
+To move from one branch to other one
+1.git switch "featureName/navbar"
+2.
 
+To merge a branch
+1.git merge "branch-name'
+
+Delete a branch
+1.git branch -d "Feature/navbar"
+
+
+Types of merges
+1.Fast forward branch
+2.Three way branch
+3.Rebase Merge
+4.Squashing Merge
 
 
 
