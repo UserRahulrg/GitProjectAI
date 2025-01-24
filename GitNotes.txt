@@ -72,6 +72,18 @@ commit-7
 -git reset --hard 65dc699
 
 
+How to Edit most recent commit
+-git commit --amend -m "Message"
+-git commit --amend --no-edit
+
+
+How to check number of commit in a branch
+
+1.git log --oneline
+2.git branch -m main
+3.git branch -M "branch Name"
+
+
 
 
 
