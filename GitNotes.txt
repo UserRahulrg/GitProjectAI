@@ -84,7 +84,6 @@ How to check number of commit in a branch
 3.git branch -M "branch Name"
 4.
 
-
 How to Create a branch
 1.git branch "branchname"
 			"feature name"
@@ -92,7 +91,6 @@ How to Create a branch
 
 How to check your branch is created on not
 1.
-
 
 To move from one branch to other one
 1.git switch "featureName/navbar"
@@ -110,20 +108,6 @@ Types of merges
 2.Three way branch
 3.Rebase Merge
 4.Squashing Merge
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
