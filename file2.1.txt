@@ -1,1 +1,15 @@
--
+- commit-4
+
+-git checkout -b "development"
+
+
+-Rebase
+
+-squashing
+-git rebase "branch_name"
+
+-git checkout -b "branchName"
+
+
+- Commit-5
+
