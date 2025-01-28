@@ -1,15 +1,56 @@
-- commit-4
+-Line 1 in commit
+-Line 2 in commit
+-Line 3 in commit
+
+
+1.-Fast Forward Merge
+2.-Three Way Merge
+
+- Commit-4
 
 -git checkout -b "development"
+
+-git branch "development"
 
 
 -Rebase
 
--squashing
--git rebase "branch_name"
+-Squashing
+-git rebase "branch_name" //in main branch
 
 -git checkout -b "branchName"
+-Commit-5
 
 
-- Commit-5
+-switch to feature_branch
+-git rebase main
+-switch to main
+-git merge feature_branch
+-git branch -d feature_branch
+-git remote remove origin(remote repos name)
+-
+
+
+Wa ------------------- Sa -------------------------- Commit -------------------------- GitHub
+
+
+-git push -u origin main
+
+
+
+Project Ai                                                   Project Ai Development
+
+    origin            ---------------Push(Upload)----------->         main
+
+
+
+- git checkout -b "bug_fix"
+
+-commit -7
+
+-index.html
+
+-
+
+
 
